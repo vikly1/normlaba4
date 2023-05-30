@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "normlaba4", "normlaba4\normlaba4.csproj", "{F8BF7ED2-A364-44D0-A7B0-DB9A3826EB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8BF7ED2-A364-44D0-A7B0-DB9A3826EB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BF7ED2-A364-44D0-A7B0-DB9A3826EB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BF7ED2-A364-44D0-A7B0-DB9A3826EB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BF7ED2-A364-44D0-A7B0-DB9A3826EB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A6A280-5BFE-41BD-8FF3-F40FE46854F2}
+	EndGlobalSection
+EndGlobal
